@@ -2,13 +2,13 @@
 
 This repository provides source codes and results for finding procedures to compute the initial values 
 
-* of forward neutral bytes (in Blue) for the preimage attack on 7-round Whirlpool in Fig. 3 in [\[1\]](https://eprint.iacr.org/2021/575).
+* of forward neutral bytes (in Blue) for the preimage attack on 7-round Whirlpool in Fig. 3 [\[1\]](https://eprint.iacr.org/2021/575).
 
-* of backward neutral bytes (in Red) for the preimage attack on 9-round AES-192 hashing in Fig. 18 in [\[1\]](https://eprint.iacr.org/2021/575).
+* of backward neutral bytes (in Red) for the preimage attack on 9-round AES-192 hashing in Fig. 18 [\[1\]](https://eprint.iacr.org/2021/575).
 
-* of forward neutral bytes (in Blue) for the collision attack on 6-round Grøstl-256 OT in Fig. 20 in [\[1\]](https://eprint.iacr.org/2021/575).
+* of forward neutral bytes (in Blue) for the collision attack on 6-round Grøstl-256 OT in Fig. 20 [\[1\]](https://eprint.iacr.org/2021/575).
 
-* of backward neutral bytes (in Red) for the collision attack on 7-round AES-128 hashing in Fig. 22 in [\[1\]](https://eprint.iacr.org/2021/575).
+* of backward neutral bytes (in Red) for the collision attack on 7-round AES-128 hashing in Fig. 22 [\[1\]](https://eprint.iacr.org/2021/575).
 
 (only for the neutral bytes on which complex constraints are imposed such that non-trivial procedures are required).
 
@@ -29,7 +29,7 @@ Note that the generating of initial values for neutral words can be done simulta
 
 ## References
 
-[1] Zhenzhen Bao, Jian Guo, Danping Shi, andYi Tu. Superposition Meet-in-the-Middle Attacks: Updates on Fundamental Security of AES-like Hashing. Cryptology ePrint Archive, Report 2021/575, 2021. https://eprint.iacr.org/2021/575
+[1] Zhenzhen Bao, Jian Guo, Danping Shi, and Yi Tu. Superposition Meet-in-the-Middle Attacks: Updates on Fundamental Security of AES-like Hashing. Cryptology ePrint Archive, Report 2021/575, 2021. https://eprint.iacr.org/2021/575
 
 [2] Charles Bouillaguet, Patrick Derbez, Pierre-Alain Fouque.: Automatic Search of Attacks on Round-Reduced AES and Applications. In CRYPTO 2011. [Online Automatic-tool] https://www-almasty.lip6.fr/~bouillaguet/static/attacks/AES-tool.tar.gz
 
