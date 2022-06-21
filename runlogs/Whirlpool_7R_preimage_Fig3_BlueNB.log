@@ -1,0 +1,97 @@
+[+] No (explicit) message information available
+[+] Parsed 48 equations in 65 variables (13 are known)
+[+] PRNG initialized to 0x7E86D5CE
+ 12 low time solvers 
+Randomized Search : 
+
+collision found!! Output : 4
+
+[>] Result found : 
+   - Time complexity : 2^32
+   - Memory complexity : 2^32
+   - Number of solution : 2^32
+[+] Output XML file: 
+	xml/Whirlpool_7R_preimage_Fig3_BlueNB_4-4_0.xml
+[+] Source file: Whirlpool_7R_preimage_Fig3_BlueNB_4-4_0.c
+[+] Compilation : 
+	gcc -Wall Programs/Whirlpool_7R_preimage_Fig3_BlueNB_4-4_0.c -o Programs/Whirlpool_7R_preimage_Fig3_BlueNB_4-4_0 -O3
+	./Programs/Whirlpool_7R_preimage_Fig3_BlueNB_4-4_0
+
+Sart C code generation (may take a long time ...) : 
+- Refine solver
+Search exhaustive : 
+
+i=16, N=16, Max=16
+i=16, N=16, Max=16
+- Write attacks
+
+	- write subroutine (1)
+	- write subroutine (2)
+	- write subroutine (4)
+	- write subroutine (6)
+	- write subroutine (8)
+	- write subroutine (9)
+	- write subroutine (11)
+	- write subroutine (13)
+	- write subroutine (15)
+	- write subroutine (16)
+	- write subroutine (17)
+	- write subroutine (18)
+	- write subroutine (19)
+	- write subroutine (20)
+	- write subroutine (22)
+	- write subroutine (24)
+	- write subroutine (28)
+	- write subroutine (28)
+	- write subroutine (30)
+	- write subroutine (31)
+	- write subroutine (32)
+	- write subroutine (33)
+	- write subroutine (34)
+	- write subroutine (35)
+	- write subroutine (36)
+	- write subroutine (37)
+	- write subroutine (38)
+	- write subroutine (39)
+	- write subroutine (40)
+	- write subroutine (41)
+	- write subroutine (42)
+	- write subroutine (43)
+	- write subroutine (44)
+	- write subroutine (45)
+	- write subroutine (46)
+	- write subroutine (47)
+	- write subroutine (48)
+	- write subroutine (49)
+	- write subroutine (50)
+	- write subroutine (51)
+	- write subroutine (52)
+	- write subroutine (53)
+	- write subroutine (54)
+	- write subroutine (55)
+	- write subroutine (56)
+	- write subroutine (57)
+	- write subroutine (58)
+	- write subroutine (59)
+	- write subroutine (60)
+	- write subroutine (61)
+	- write subroutine (62)
+	- write subroutine (63)
+	- write subroutine (64)
+	- write subroutine (65)
+ Make a generator for known variables ? (y/n) - Write generator
+
+	- write subroutine (66)
+	- write subroutine (67)
+	- write subroutine (69)
+	- write subroutine (71)
+	- write subroutine (73)
+	- write subroutine (75)
+	- write subroutine (77)
+	- write subroutine (79)
+	- write subroutine (81)
+	- write subroutine (83)
+	- write subroutine (85)
+	- write subroutine (87)
+
+Done

@@ -1,0 +1,31 @@
+[Parser] syntax error at symbol '' at line 222
+[+] No (explicit) message information available
+[+] Parsed 206 equations in 207 variables (27 are known)
+[+] PRNG initialized to 0x7E86D5CE
+ 18 low time solvers 
+Randomized Search :
+
+collision found!! Output : 7
+
+[>] Result found :
+   - Time complexity : 2^56
+   - Memory complexity : 2^48
+   - Number of solution : 2^56
+[+] Output XML file:
+        xml/AES128_7R_collision_Fig22_RedNB_relax5bytes_7-6_0.xml
+[+] Source file: AES128_7R_collision_Fig22_RedNB_relax5bytes_7-6_0.c
+[+] Compilation :
+        gcc -Wall Programs/AES128_7R_collision_Fig22_RedNB_relax5bytes_7-6_0.c -o Programs/AES128_7R_collision_Fig22_RedNB_relax5bytes_7-6_0 -O3
+        ./Programs/AES128_7R_collision_Fig22_RedNB_relax5bytes_7-6_0
+
+Sart C code generation (may take a long time ...) :
+- Refine solver
+Search exhaustive :
+i=64, N=64, Max=64
+- Write attacks
+        - write subroutine (210)
+ Make a generator for known variables ? (y/n) y
+- Write generator
+        - write subroutine (447)
+
+Done

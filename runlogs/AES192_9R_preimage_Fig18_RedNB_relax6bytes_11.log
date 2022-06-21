@@ -1,0 +1,950 @@
+[+] No (explicit) message information available
+[+] Parsed 406 equations in 367 variables (33 are known)
+[+] PRNG initialized to 0x7E86D5CE
+ 42 low time solvers 
+Randomized Search : 
+
+ - generated solvers : 200, number of variables max : 23 / 48 
+ - generated solvers : 400, number of variables max : 23 / 48 
+ - generated solvers : 600, number of variables max : 23 / 48 
+ - generated solvers : 800, number of variables max : 23 / 48 
+ - generated solvers : 1000, number of variables max : 23 / 48 
+ - generated solvers : 1200, number of variables max : 23 / 48 
+ - generated solvers : 1400, number of variables max : 27 / 48 
+ - generated solvers : 1600, number of variables max : 27 / 48 
+ - generated solvers : 1800, number of variables max : 27 / 48 
+ - generated solvers : 2000, number of variables max : 27 / 48 
+ - generated solvers : 2200, number of variables max : 27 / 48 
+ - generated solvers : 2400, number of variables max : 27 / 48 
+ - generated solvers : 2600, number of variables max : 27 / 48 
+ - generated solvers : 2800, number of variables max : 27 / 48 
+ - generated solvers : 3000, number of variables max : 27 / 48 
+ - generated solvers : 3200, number of variables max : 27 / 48 
+ - generated solvers : 3400, number of variables max : 27 / 48 
+ - generated solvers : 3600, number of variables max : 27 / 48 
+ - generated solvers : 3800, number of variables max : 27 / 48 
+ - generated solvers : 4000, number of variables max : 27 / 48 
+ - generated solvers : 4200, number of variables max : 27 / 48 
+ - generated solvers : 4400, number of variables max : 27 / 48 
+ - generated solvers : 4600, number of variables max : 27 / 48 
+ - generated solvers : 4800, number of variables max : 27 / 48 
+ - generated solvers : 5000, number of variables max : 27 / 48 
+ - generated solvers : 5200, number of variables max : 27 / 48 
+ - generated solvers : 5400, number of variables max : 27 / 48 
+ - generated solvers : 5600, number of variables max : 27 / 48 
+ - generated solvers : 5800, number of variables max : 27 / 48 
+ - generated solvers : 6000, number of variables max : 27 / 48 
+ - generated solvers : 6200, number of variables max : 27 / 48 
+ - generated solvers : 6400, number of variables max : 27 / 48 
+ - generated solvers : 6600, number of variables max : 27 / 48 
+ - generated solvers : 6800, number of variables max : 27 / 48 
+ - generated solvers : 7000, number of variables max : 28 / 48 
+ - generated solvers : 7200, number of variables max : 28 / 48 
+ - generated solvers : 7400, number of variables max : 28 / 48 
+ - generated solvers : 7600, number of variables max : 28 / 48 
+ - generated solvers : 7800, number of variables max : 28 / 48 
+ - generated solvers : 8000, number of variables max : 28 / 48 
+ - generated solvers : 8200, number of variables max : 28 / 48 
+ - generated solvers : 8400, number of variables max : 28 / 48 
+ - generated solvers : 8600, number of variables max : 28 / 48 
+ - generated solvers : 8800, number of variables max : 28 / 48 
+ - generated solvers : 9000, number of variables max : 28 / 48 
+ - generated solvers : 9200, number of variables max : 28 / 48 
+ - generated solvers : 9400, number of variables max : 28 / 48 
+ - generated solvers : 9600, number of variables max : 28 / 48 
+ - generated solvers : 9800, number of variables max : 28 / 48 
+ - generated solvers : 10000, number of variables max : 28 / 48 
+ - generated solvers : 10200, number of variables max : 28 / 48 
+ - generated solvers : 10400, number of variables max : 28 / 48 
+ - generated solvers : 10600, number of variables max : 28 / 48 
+ - generated solvers : 10800, number of variables max : 28 / 48 
+ - generated solvers : 11000, number of variables max : 28 / 48 
+ - generated solvers : 11200, number of variables max : 28 / 48 
+ - generated solvers : 11400, number of variables max : 28 / 48 
+ - generated solvers : 11600, number of variables max : 28 / 48 
+ - generated solvers : 11800, number of variables max : 28 / 48 
+ - generated solvers : 12000, number of variables max : 28 / 48 
+ - generated solvers : 12200, number of variables max : 28 / 48 
+ - generated solvers : 12400, number of variables max : 28 / 48 
+ - generated solvers : 12600, number of variables max : 28 / 48 
+ - generated solvers : 12800, number of variables max : 28 / 48 
+ - generated solvers : 13000, number of variables max : 28 / 48 
+ - generated solvers : 13200, number of variables max : 28 / 48 
+ - generated solvers : 13400, number of variables max : 28 / 48 
+ - generated solvers : 13600, number of variables max : 28 / 48 
+ - generated solvers : 13800, number of variables max : 28 / 48 
+ - generated solvers : 14000, number of variables max : 28 / 48 
+ - generated solvers : 14200, number of variables max : 28 / 48 
+ - generated solvers : 14400, number of variables max : 28 / 48 
+ - generated solvers : 14600, number of variables max : 28 / 48 
+ - generated solvers : 14800, number of variables max : 28 / 48 
+ - generated solvers : 15000, number of variables max : 28 / 48 
+ - generated solvers : 15200, number of variables max : 28 / 48 
+ - generated solvers : 15400, number of variables max : 28 / 48 
+ - generated solvers : 15600, number of variables max : 28 / 48 
+ - generated solvers : 15800, number of variables max : 28 / 48 
+ - generated solvers : 16000, number of variables max : 28 / 48 
+ - generated solvers : 16200, number of variables max : 28 / 48 
+ - generated solvers : 16400, number of variables max : 28 / 48 
+ - generated solvers : 16600, number of variables max : 28 / 48 
+ - generated solvers : 16800, number of variables max : 28 / 48 
+ - generated solvers : 17000, number of variables max : 28 / 48 
+ - generated solvers : 17200, number of variables max : 28 / 48 
+ - generated solvers : 17400, number of variables max : 28 / 48 
+ - generated solvers : 17600, number of variables max : 28 / 48 
+ - generated solvers : 17800, number of variables max : 28 / 48 
+ - generated solvers : 18000, number of variables max : 28 / 48 
+ - generated solvers : 18200, number of variables max : 28 / 48 
+ - generated solvers : 18400, number of variables max : 28 / 48 
+ - generated solvers : 18600, number of variables max : 28 / 48 
+ - generated solvers : 18800, number of variables max : 28 / 48 
+ - generated solvers : 19000, number of variables max : 28 / 48 
+ - generated solvers : 19200, number of variables max : 28 / 48 
+ - generated solvers : 19400, number of variables max : 28 / 48 
+ - generated solvers : 19600, number of variables max : 28 / 48 
+ - generated solvers : 19800, number of variables max : 28 / 48 
+ - generated solvers : 20000, number of variables max : 28 / 48 
+ - generated solvers : 20200, number of variables max : 28 / 48 
+ - generated solvers : 20400, number of variables max : 28 / 48 
+ - generated solvers : 20600, number of variables max : 28 / 48 
+ - generated solvers : 20800, number of variables max : 28 / 48 
+ - generated solvers : 21000, number of variables max : 28 / 48 
+ - generated solvers : 21200, number of variables max : 28 / 48 
+ - generated solvers : 21400, number of variables max : 28 / 48 
+ - generated solvers : 21600, number of variables max : 28 / 48 
+ - generated solvers : 21800, number of variables max : 28 / 48 
+ - generated solvers : 22000, number of variables max : 28 / 48 
+ - generated solvers : 22200, number of variables max : 28 / 48 
+ - generated solvers : 22400, number of variables max : 28 / 48 
+ - generated solvers : 22600, number of variables max : 28 / 48 
+ - generated solvers : 22800, number of variables max : 28 / 48 
+ - generated solvers : 23000, number of variables max : 28 / 48 
+ - generated solvers : 23200, number of variables max : 28 / 48 
+ - generated solvers : 23400, number of variables max : 28 / 48 
+ - generated solvers : 23600, number of variables max : 28 / 48 
+ - generated solvers : 23800, number of variables max : 28 / 48 
+ - generated solvers : 24000, number of variables max : 28 / 48 
+ - generated solvers : 24200, number of variables max : 28 / 48 
+ - generated solvers : 24400, number of variables max : 28 / 48 
+ - generated solvers : 24600, number of variables max : 28 / 48 
+ - generated solvers : 24800, number of variables max : 28 / 48 
+ - generated solvers : 25000, number of variables max : 28 / 48 
+ - generated solvers : 25200, number of variables max : 28 / 48 
+ - generated solvers : 25400, number of variables max : 28 / 48 
+ - generated solvers : 25600, number of variables max : 28 / 48 
+ - generated solvers : 25800, number of variables max : 28 / 48 
+ - generated solvers : 26000, number of variables max : 28 / 48 
+ - generated solvers : 26200, number of variables max : 28 / 48 
+ - generated solvers : 26400, number of variables max : 28 / 48 
+ - generated solvers : 26600, number of variables max : 28 / 48 
+ - generated solvers : 26800, number of variables max : 28 / 48 
+ - generated solvers : 27000, number of variables max : 28 / 48 
+ - generated solvers : 27200, number of variables max : 28 / 48 
+ - generated solvers : 27400, number of variables max : 28 / 48 
+ - generated solvers : 27600, number of variables max : 28 / 48 
+ - generated solvers : 27800, number of variables max : 28 / 48 
+ - generated solvers : 28000, number of variables max : 28 / 48 
+ - generated solvers : 28200, number of variables max : 28 / 48 
+ - generated solvers : 28400, number of variables max : 28 / 48 
+ - generated solvers : 28600, number of variables max : 28 / 48 
+ - generated solvers : 28800, number of variables max : 28 / 48 
+ - generated solvers : 29000, number of variables max : 28 / 48 
+ - generated solvers : 29200, number of variables max : 28 / 48 
+ - generated solvers : 29400, number of variables max : 28 / 48 
+ - generated solvers : 29600, number of variables max : 28 / 48 
+ - generated solvers : 29800, number of variables max : 28 / 48 
+ - generated solvers : 30000, number of variables max : 28 / 48 
+ - generated solvers : 30200, number of variables max : 28 / 48 
+ - generated solvers : 30400, number of variables max : 28 / 48 
+ - generated solvers : 30600, number of variables max : 28 / 48 
+ - generated solvers : 30800, number of variables max : 28 / 48 
+ - generated solvers : 31000, number of variables max : 28 / 48 
+ - generated solvers : 31200, number of variables max : 28 / 48 
+ - generated solvers : 31400, number of variables max : 28 / 48 
+ - generated solvers : 31600, number of variables max : 28 / 48 
+ - generated solvers : 31800, number of variables max : 28 / 48 
+ - generated solvers : 32000, number of variables max : 28 / 48 
+ - generated solvers : 32200, number of variables max : 28 / 48 
+ - generated solvers : 32400, number of variables max : 28 / 48 
+ - generated solvers : 32600, number of variables max : 28 / 48 
+ - generated solvers : 32800, number of variables max : 28 / 48 
+ - generated solvers : 33000, number of variables max : 28 / 48 
+ - generated solvers : 33200, number of variables max : 28 / 48 
+ - generated solvers : 33400, number of variables max : 28 / 48 
+ - generated solvers : 33600, number of variables max : 28 / 48 
+ - generated solvers : 33800, number of variables max : 28 / 48 
+ - generated solvers : 34000, number of variables max : 28 / 48 
+ - generated solvers : 34200, number of variables max : 28 / 48 
+ - generated solvers : 34400, number of variables max : 28 / 48 
+ - generated solvers : 34600, number of variables max : 28 / 48 
+ - generated solvers : 34800, number of variables max : 28 / 48 
+ - generated solvers : 35000, number of variables max : 28 / 48 
+ - generated solvers : 35200, number of variables max : 28 / 48 
+ - generated solvers : 35400, number of variables max : 28 / 48 
+ - generated solvers : 35600, number of variables max : 28 / 48 
+ - generated solvers : 35800, number of variables max : 28 / 48 
+ - generated solvers : 36000, number of variables max : 28 / 48 
+ - generated solvers : 36200, number of variables max : 28 / 48 
+ - generated solvers : 36400, number of variables max : 28 / 48 
+ - generated solvers : 36600, number of variables max : 28 / 48 
+ - generated solvers : 36800, number of variables max : 28 / 48 
+ - generated solvers : 37000, number of variables max : 28 / 48 
+ - generated solvers : 37200, number of variables max : 28 / 48 
+ - generated solvers : 37400, number of variables max : 28 / 48 
+ - generated solvers : 37600, number of variables max : 28 / 48 
+ - generated solvers : 37800, number of variables max : 28 / 48 
+ - generated solvers : 38000, number of variables max : 28 / 48 
+ - generated solvers : 38200, number of variables max : 28 / 48 
+ - generated solvers : 38400, number of variables max : 28 / 48 
+ - generated solvers : 38600, number of variables max : 28 / 48 
+ - generated solvers : 38800, number of variables max : 28 / 48 
+ - generated solvers : 39000, number of variables max : 28 / 48 
+ - generated solvers : 39200, number of variables max : 28 / 48 
+ - generated solvers : 39400, number of variables max : 28 / 48 
+ - generated solvers : 39600, number of variables max : 28 / 48 
+ - generated solvers : 39800, number of variables max : 28 / 48 
+ - generated solvers : 40000, number of variables max : 28 / 48 
+ - generated solvers : 40200, number of variables max : 28 / 48 
+ - generated solvers : 40400, number of variables max : 28 / 48 
+ - generated solvers : 40600, number of variables max : 28 / 48 
+ - generated solvers : 40800, number of variables max : 28 / 48 
+ - generated solvers : 41000, number of variables max : 28 / 48 
+ - generated solvers : 41200, number of variables max : 28 / 48 
+ - generated solvers : 41400, number of variables max : 28 / 48 
+ - generated solvers : 41600, number of variables max : 28 / 48 
+ - generated solvers : 41800, number of variables max : 28 / 48 
+ - generated solvers : 42000, number of variables max : 28 / 48 
+ - generated solvers : 42200, number of variables max : 28 / 48 
+ - generated solvers : 42400, number of variables max : 28 / 48 
+ - generated solvers : 42600, number of variables max : 28 / 48 
+ - generated solvers : 42800, number of variables max : 28 / 48 
+ - generated solvers : 43000, number of variables max : 28 / 48 
+ - generated solvers : 43200, number of variables max : 28 / 48 
+ - generated solvers : 43400, number of variables max : 28 / 48 
+ - generated solvers : 43600, number of variables max : 28 / 48 
+ - generated solvers : 43800, number of variables max : 28 / 48 
+ - generated solvers : 44000, number of variables max : 28 / 48 
+ - generated solvers : 44200, number of variables max : 28 / 48 
+ - generated solvers : 44400, number of variables max : 28 / 48 
+ - generated solvers : 44600, number of variables max : 28 / 48 
+ - generated solvers : 44800, number of variables max : 28 / 48 
+ - generated solvers : 45000, number of variables max : 28 / 48 
+ - generated solvers : 45200, number of variables max : 28 / 48 
+ - generated solvers : 45400, number of variables max : 28 / 48 
+ - generated solvers : 45600, number of variables max : 28 / 48 
+ - generated solvers : 45800, number of variables max : 28 / 48 
+ - generated solvers : 46000, number of variables max : 28 / 48 
+ - generated solvers : 46200, number of variables max : 28 / 48 
+ - generated solvers : 46400, number of variables max : 28 / 48 
+ - generated solvers : 46600, number of variables max : 28 / 48 
+ - generated solvers : 46800, number of variables max : 28 / 48 
+ - generated solvers : 47000, number of variables max : 28 / 48 
+ - generated solvers : 47200, number of variables max : 28 / 48 
+ - generated solvers : 47400, number of variables max : 28 / 48 
+ - generated solvers : 47600, number of variables max : 28 / 48 
+ - generated solvers : 47800, number of variables max : 28 / 48 
+ - generated solvers : 48000, number of variables max : 28 / 48 
+ - generated solvers : 48200, number of variables max : 28 / 48 
+ - generated solvers : 48400, number of variables max : 28 / 48 
+ - generated solvers : 48600, number of variables max : 28 / 48 
+ - generated solvers : 48800, number of variables max : 28 / 48 
+ - generated solvers : 49000, number of variables max : 28 / 48 
+ - generated solvers : 49200, number of variables max : 28 / 48 
+ - generated solvers : 49400, number of variables max : 28 / 48 
+ - generated solvers : 49600, number of variables max : 28 / 48 
+ - generated solvers : 49800, number of variables max : 28 / 48 
+ - generated solvers : 50000, number of variables max : 28 / 48 
+ - generated solvers : 50200, number of variables max : 28 / 48 
+ - generated solvers : 50400, number of variables max : 28 / 48 
+ - generated solvers : 50600, number of variables max : 28 / 48 
+ - generated solvers : 50800, number of variables max : 28 / 48 
+ - generated solvers : 51000, number of variables max : 28 / 48 
+ - generated solvers : 51200, number of variables max : 28 / 48 
+ - generated solvers : 51400, number of variables max : 28 / 48 
+ - generated solvers : 51600, number of variables max : 28 / 48 
+ - generated solvers : 51800, number of variables max : 28 / 48 
+ - generated solvers : 52000, number of variables max : 28 / 48 
+ - generated solvers : 52200, number of variables max : 28 / 48 
+ - generated solvers : 52400, number of variables max : 28 / 48 
+ - generated solvers : 52600, number of variables max : 28 / 48 
+ - generated solvers : 52800, number of variables max : 28 / 48 
+ - generated solvers : 53000, number of variables max : 28 / 48 
+ - generated solvers : 53200, number of variables max : 28 / 48 
+ - generated solvers : 53400, number of variables max : 28 / 48 
+ - generated solvers : 53600, number of variables max : 28 / 48 
+ - generated solvers : 53800, number of variables max : 28 / 48 
+ - generated solvers : 54000, number of variables max : 28 / 48 
+ - generated solvers : 54200, number of variables max : 28 / 48 
+ - generated solvers : 54400, number of variables max : 28 / 48 
+ - generated solvers : 54600, number of variables max : 28 / 48 
+ - generated solvers : 54800, number of variables max : 28 / 48 
+ - generated solvers : 55000, number of variables max : 28 / 48 
+ - generated solvers : 55200, number of variables max : 28 / 48 
+ - generated solvers : 55400, number of variables max : 28 / 48 
+ - generated solvers : 55600, number of variables max : 28 / 48 
+ - generated solvers : 55800, number of variables max : 28 / 48 
+ - generated solvers : 56000, number of variables max : 28 / 48 
+ - generated solvers : 56200, number of variables max : 28 / 48 
+ - generated solvers : 56400, number of variables max : 28 / 48 
+ - generated solvers : 56600, number of variables max : 28 / 48 
+ - generated solvers : 56800, number of variables max : 28 / 48 
+ - generated solvers : 57000, number of variables max : 28 / 48 
+ - generated solvers : 57200, number of variables max : 28 / 48 
+ - generated solvers : 57400, number of variables max : 28 / 48 
+ - generated solvers : 57600, number of variables max : 28 / 48 
+ - generated solvers : 57800, number of variables max : 28 / 48 
+ - generated solvers : 58000, number of variables max : 28 / 48 
+ - generated solvers : 58200, number of variables max : 28 / 48 
+ - generated solvers : 58400, number of variables max : 28 / 48 
+ - generated solvers : 58600, number of variables max : 28 / 48 
+ - generated solvers : 58800, number of variables max : 28 / 48 
+ - generated solvers : 59000, number of variables max : 28 / 48 
+ - generated solvers : 59200, number of variables max : 28 / 48 
+ - generated solvers : 59400, number of variables max : 28 / 48 
+ - generated solvers : 59600, number of variables max : 28 / 48 
+ - generated solvers : 59800, number of variables max : 28 / 48 
+ - generated solvers : 60000, number of variables max : 28 / 48 
+ - generated solvers : 60200, number of variables max : 28 / 48 
+ - generated solvers : 60400, number of variables max : 28 / 48 
+ - generated solvers : 60600, number of variables max : 28 / 48 
+ - generated solvers : 60800, number of variables max : 28 / 48 
+ - generated solvers : 61000, number of variables max : 28 / 48 
+ - generated solvers : 61200, number of variables max : 28 / 48 
+ - generated solvers : 61400, number of variables max : 28 / 48 
+ - generated solvers : 61600, number of variables max : 28 / 48 
+ - generated solvers : 61800, number of variables max : 28 / 48 
+ - generated solvers : 62000, number of variables max : 28 / 48 
+ - generated solvers : 62200, number of variables max : 28 / 48 
+ - generated solvers : 62400, number of variables max : 28 / 48 
+ - generated solvers : 62600, number of variables max : 28 / 48 
+ - generated solvers : 62800, number of variables max : 28 / 48 
+ - generated solvers : 63000, number of variables max : 28 / 48 
+ - generated solvers : 63200, number of variables max : 28 / 48 
+ - generated solvers : 63400, number of variables max : 28 / 48 
+ - generated solvers : 63600, number of variables max : 28 / 48 
+ - generated solvers : 63800, number of variables max : 28 / 48 
+ - generated solvers : 64000, number of variables max : 28 / 48 
+ - generated solvers : 64200, number of variables max : 28 / 48 
+ - generated solvers : 64400, number of variables max : 28 / 48 
+ - generated solvers : 64600, number of variables max : 28 / 48 
+ - generated solvers : 64800, number of variables max : 28 / 48 
+ - generated solvers : 65000, number of variables max : 28 / 48 
+ - generated solvers : 65200, number of variables max : 28 / 48 
+ - generated solvers : 65400, number of variables max : 28 / 48 
+ - generated solvers : 65600, number of variables max : 28 / 48 
+ - generated solvers : 65800, number of variables max : 28 / 48 
+ - generated solvers : 66000, number of variables max : 28 / 48 
+ - generated solvers : 66200, number of variables max : 28 / 48 
+ - generated solvers : 66400, number of variables max : 28 / 48 
+ - generated solvers : 66600, number of variables max : 28 / 48 
+ - generated solvers : 66800, number of variables max : 28 / 48 
+ - generated solvers : 67000, number of variables max : 28 / 48 
+ - generated solvers : 67200, number of variables max : 28 / 48 
+ - generated solvers : 67400, number of variables max : 28 / 48 
+ - generated solvers : 67600, number of variables max : 28 / 48 
+ - generated solvers : 67800, number of variables max : 28 / 48 
+ - generated solvers : 68000, number of variables max : 28 / 48 
+ - generated solvers : 68200, number of variables max : 28 / 48 
+ - generated solvers : 68400, number of variables max : 28 / 48 
+ - generated solvers : 68600, number of variables max : 28 / 48 
+ - generated solvers : 68800, number of variables max : 28 / 48 
+ - generated solvers : 69000, number of variables max : 28 / 48 
+ - generated solvers : 69200, number of variables max : 28 / 48 
+ - generated solvers : 69400, number of variables max : 28 / 48 
+ - generated solvers : 69600, number of variables max : 28 / 48 
+ - generated solvers : 69800, number of variables max : 28 / 48 
+ - generated solvers : 70000, number of variables max : 28 / 48 
+ - generated solvers : 70200, number of variables max : 28 / 48 
+collision found!! Output : 8
+
+
+[>] Result found : 
+   - Time complexity : 2^88
+   - Memory complexity : 2^88
+   - Number of solution : 2^64
+[+] Output XML file: 
+	xml/AES192_9R_preimage_Fig18_RedNB_relax6bytes_11-11_0.xml
+[+] Source file: AES192_9R_preimage_Fig18_RedNB_relax6bytes_11-11_0.c
+[+] Compilation : 
+	gcc -Wall Programs/AES192_9R_preimage_Fig18_RedNB_relax6bytes_11-11_0.c -o Programs/AES192_9R_preimage_Fig18_RedNB_relax6bytes_11-11_0 -O3
+	./Programs/AES192_9R_preimage_Fig18_RedNB_relax6bytes_11-11_0
+
+Sart C code generation (may take a long time ...) : 
+- Refine solver
+Search exhaustive : 
+
+i=16, N=87, Max=104
+i=32, N=87, Max=228
+i=48, N=87, Max=375
+i=64, N=87, Max=509
+i=80, N=87, Max=800
+i=96, N=822, Max=906
+i=112, N=822, Max=1018
+i=128, N=822, Max=1151
+i=144, N=822, Max=1296
+i=160, N=822, Max=1385
+i=176, N=822, Max=1451
+i=192, N=822, Max=1606
+i=208, N=822, Max=1676
+i=224, N=822, Max=1848
+i=240, N=822, Max=1906
+i=256, N=822, Max=1981
+i=272, N=822, Max=2091
+i=288, N=822, Max=2163
+i=304, N=822, Max=2248
+i=320, N=822, Max=2250
+i=336, N=822, Max=2373
+i=352, N=822, Max=2376
+i=368, N=822, Max=2506
+i=384, N=822, Max=2636
+i=400, N=822, Max=2712
+i=416, N=822, Max=2743
+i=432, N=822, Max=2777
+i=448, N=822, Max=2802
+i=464, N=822, Max=2818
+i=480, N=822, Max=2825
+i=496, N=822, Max=2826
+i=512, N=822, Max=2832
+i=528, N=822, Max=2835
+i=544, N=822, Max=2857
+i=560, N=822, Max=2861
+i=576, N=822, Max=2862
+i=592, N=822, Max=2865
+i=608, N=822, Max=2865
+i=624, N=822, Max=2865
+i=640, N=822, Max=2865
+i=656, N=822, Max=2915
+i=672, N=822, Max=2952
+i=688, N=822, Max=2956
+i=704, N=822, Max=2961
+i=720, N=822, Max=2981
+i=736, N=822, Max=2981
+i=752, N=822, Max=2985
+i=768, N=822, Max=2985
+i=784, N=822, Max=2985
+i=800, N=822, Max=2985
+i=816, N=822, Max=2985
+i=832, N=2985, Max=3012
+i=848, N=2985, Max=3013
+i=864, N=2985, Max=3020
+i=880, N=2985, Max=3021
+i=896, N=2985, Max=3021
+i=912, N=2985, Max=3027
+i=928, N=2985, Max=3029
+i=944, N=2985, Max=3029
+i=960, N=2985, Max=3029
+i=976, N=2985, Max=3036
+i=992, N=2985, Max=3037
+i=1008, N=2985, Max=3037
+i=1024, N=2985, Max=3044
+i=1040, N=2985, Max=3045
+i=1056, N=2985, Max=3056
+i=1072, N=2985, Max=3058
+i=1088, N=2985, Max=3060
+i=1104, N=2985, Max=3060
+i=1120, N=2985, Max=3060
+i=1136, N=2985, Max=3061
+i=1152, N=2985, Max=3061
+i=1168, N=2985, Max=3066
+i=1184, N=2985, Max=3066
+i=1200, N=2985, Max=3066
+i=1216, N=2985, Max=3067
+i=1232, N=2985, Max=3067
+i=1248, N=2985, Max=3069
+i=1264, N=2985, Max=3069
+i=1280, N=2985, Max=3069
+i=1296, N=2985, Max=3069
+i=1312, N=2985, Max=3070
+i=1328, N=2985, Max=3070
+i=1344, N=2985, Max=3070
+i=1360, N=2985, Max=3070
+i=1376, N=2985, Max=3071
+i=1392, N=2985, Max=3071
+i=1408, N=2985, Max=3071
+i=1424, N=2985, Max=3071
+i=1440, N=2985, Max=3071
+i=1456, N=2985, Max=3071
+i=1472, N=2985, Max=3071
+i=1488, N=2985, Max=3071
+i=1504, N=2985, Max=3071
+i=1520, N=2985, Max=3071
+i=1536, N=2985, Max=3071
+i=1552, N=2985, Max=3072
+i=1568, N=2985, Max=3072
+i=1584, N=2985, Max=3072
+i=1600, N=2985, Max=3072
+i=1616, N=2985, Max=3072
+i=1632, N=2985, Max=3072
+i=1648, N=2985, Max=3072
+i=1664, N=2985, Max=3072
+i=1680, N=2985, Max=3072
+i=1696, N=2985, Max=3072
+i=1712, N=2985, Max=3072
+i=1728, N=2985, Max=3072
+i=1744, N=2985, Max=3072
+i=1760, N=2985, Max=3072
+i=1776, N=2985, Max=3072
+i=1792, N=2985, Max=3072
+i=1808, N=2985, Max=3072
+i=1824, N=2985, Max=3072
+i=1840, N=2985, Max=3072
+i=1856, N=2985, Max=3072
+i=1872, N=2985, Max=3072
+i=1888, N=2985, Max=3072
+i=1904, N=2985, Max=3072
+i=1920, N=2985, Max=3072
+i=1936, N=2985, Max=3072
+i=1952, N=2985, Max=3072
+i=1968, N=2985, Max=3072
+i=1984, N=2985, Max=3072
+i=2000, N=2985, Max=3072
+i=2016, N=2985, Max=3072
+i=2032, N=2985, Max=3072
+i=2048, N=2985, Max=3072
+i=2064, N=2985, Max=3072
+i=2080, N=2985, Max=3072
+i=2096, N=2985, Max=3072
+i=2112, N=2985, Max=3072
+i=2128, N=2985, Max=3072
+i=2144, N=2985, Max=3072
+i=2160, N=2985, Max=3072
+i=2176, N=2985, Max=3072
+i=2192, N=2985, Max=3072
+i=2208, N=2985, Max=3072
+i=2224, N=2985, Max=3072
+i=2240, N=2985, Max=3072
+i=2256, N=2985, Max=3072
+i=2272, N=2985, Max=3072
+i=2288, N=2985, Max=3072
+i=2304, N=2985, Max=3072
+i=2320, N=2985, Max=3072
+i=2336, N=2985, Max=3072
+i=2352, N=2985, Max=3072
+i=2368, N=2985, Max=3072
+i=2384, N=2985, Max=3072
+i=2400, N=2985, Max=3072
+i=2416, N=2985, Max=3072
+i=2432, N=2985, Max=3072
+i=2448, N=2985, Max=3072
+i=2464, N=2985, Max=3072
+i=2480, N=2985, Max=3072
+i=2496, N=2985, Max=3072
+i=2512, N=2985, Max=3072
+i=2528, N=2985, Max=3072
+i=2544, N=2985, Max=3072
+i=2560, N=2985, Max=3072
+i=2576, N=2985, Max=3072
+i=2592, N=2985, Max=3072
+i=2608, N=2985, Max=3072
+i=2624, N=2985, Max=3072
+i=2640, N=2985, Max=3072
+i=2656, N=2985, Max=3072
+i=2672, N=2985, Max=3072
+i=2688, N=2985, Max=3072
+i=2704, N=2985, Max=3072
+i=2720, N=2985, Max=3072
+i=2736, N=2985, Max=3072
+i=2752, N=2985, Max=3072
+i=2768, N=2985, Max=3072
+i=2784, N=2985, Max=3072
+i=2800, N=2985, Max=3072
+i=2816, N=2985, Max=3072
+i=2832, N=2985, Max=3072
+i=2848, N=2985, Max=3072
+i=2864, N=2985, Max=3072
+i=2880, N=2985, Max=3072
+i=2896, N=2985, Max=3072
+i=2912, N=2985, Max=3072
+i=2928, N=2985, Max=3072
+i=2944, N=2985, Max=3072
+i=2960, N=2985, Max=3072
+i=2976, N=2985, Max=3072
+i=2992, N=3072, Max=3072
+i=3008, N=3072, Max=3072
+i=3024, N=3072, Max=3072
+i=3040, N=3072, Max=3072
+i=3056, N=3072, Max=3072
+i=3072, N=3072, Max=3072
+i=3072, N=3072, Max=3072
+- Write attacks
+
+	- write subroutine (1)
+	- write subroutine (2)
+	- write subroutine (4)
+	- write subroutine (5)
+	- write subroutine (7)
+	- write subroutine (9)
+	- write subroutine (11)
+	- write subroutine (13)
+	- write subroutine (15)
+	- write subroutine (16)
+	- write subroutine (17)
+	- write subroutine (19)
+	- write subroutine (20)
+	- write subroutine (21)
+	- write subroutine (23)
+	- write subroutine (25)
+	- write subroutine (27)
+	- write subroutine (28)
+	- write subroutine (29)
+	- write subroutine (30)
+	- write subroutine (32)
+	- write subroutine (33)
+	- write subroutine (34)
+	- write subroutine (35)
+	- write subroutine (36)
+	- write subroutine (37)
+	- write subroutine (38)
+	- write subroutine (39)
+	- write subroutine (40)
+	- write subroutine (42)
+	- write subroutine (44)
+	- write subroutine (46)
+	- write subroutine (48)
+	- write subroutine (50)
+	- write subroutine (52)
+	- write subroutine (53)
+	- write subroutine (55)
+	- write subroutine (57)
+	- write subroutine (59)
+	- write subroutine (63)
+	- write subroutine (64)
+	- write subroutine (65)
+	- write subroutine (66)
+	- write subroutine (67)
+	- write subroutine (68)
+	- write subroutine (69)
+	- write subroutine (70)
+	- write subroutine (71)
+	- write subroutine (71)
+	- write subroutine (72)
+	- write subroutine (73)
+	- write subroutine (74)
+	- write subroutine (75)
+	- write subroutine (76)
+	- write subroutine (77)
+	- write subroutine (78)
+	- write subroutine (79)
+	- write subroutine (80)
+	- write subroutine (81)
+	- write subroutine (82)
+	- write subroutine (84)
+	- write subroutine (85)
+	- write subroutine (86)
+	- write subroutine (87)
+	- write subroutine (88)
+	- write subroutine (89)
+	- write subroutine (90)
+	- write subroutine (91)
+	- write subroutine (92)
+	- write subroutine (93)
+	- write subroutine (94)
+	- write subroutine (95)
+	- write subroutine (96)
+	- write subroutine (97)
+	- write subroutine (98)
+	- write subroutine (99)
+	- write subroutine (100)
+	- write subroutine (101)
+	- write subroutine (102)
+	- write subroutine (103)
+	- write subroutine (104)
+	- write subroutine (105)
+	- write subroutine (106)
+	- write subroutine (107)
+	- write subroutine (108)
+	- write subroutine (109)
+	- write subroutine (110)
+	- write subroutine (111)
+	- write subroutine (112)
+	- write subroutine (113)
+	- write subroutine (114)
+	- write subroutine (115)
+	- write subroutine (116)
+	- write subroutine (117)
+	- write subroutine (118)
+	- write subroutine (119)
+	- write subroutine (120)
+	- write subroutine (121)
+	- write subroutine (122)
+	- write subroutine (123)
+	- write subroutine (124)
+	- write subroutine (125)
+	- write subroutine (126)
+	- write subroutine (127)
+	- write subroutine (128)
+	- write subroutine (129)
+	- write subroutine (131)
+	- write subroutine (132)
+	- write subroutine (133)
+	- write subroutine (134)
+	- write subroutine (135)
+	- write subroutine (136)
+	- write subroutine (137)
+	- write subroutine (138)
+	- write subroutine (139)
+	- write subroutine (140)
+	- write subroutine (141)
+	- write subroutine (143)
+	- write subroutine (144)
+	- write subroutine (145)
+	- write subroutine (146)
+	- write subroutine (147)
+	- write subroutine (148)
+	- write subroutine (150)
+	- write subroutine (151)
+	- write subroutine (152)
+	- write subroutine (153)
+	- write subroutine (154)
+	- write subroutine (156)
+	- write subroutine (158)
+	- write subroutine (160)
+	- write subroutine (162)
+	- write subroutine (164)
+	- write subroutine (166)
+	- write subroutine (168)
+	- write subroutine (170)
+	- write subroutine (171)
+	- write subroutine (172)
+	- write subroutine (173)
+	- write subroutine (174)
+	- write subroutine (175)
+	- write subroutine (176)
+	- write subroutine (177)
+	- write subroutine (178)
+	- write subroutine (179)
+	- write subroutine (180)
+	- write subroutine (181)
+	- write subroutine (182)
+	- write subroutine (183)
+	- write subroutine (184)
+	- write subroutine (185)
+	- write subroutine (186)
+	- write subroutine (187)
+	- write subroutine (188)
+	- write subroutine (189)
+	- write subroutine (190)
+	- write subroutine (191)
+	- write subroutine (192)
+	- write subroutine (193)
+	- write subroutine (194)
+	- write subroutine (195)
+	- write subroutine (196)
+	- write subroutine (197)
+	- write subroutine (198)
+	- write subroutine (199)
+	- write subroutine (200)
+	- write subroutine (201)
+	- write subroutine (202)
+	- write subroutine (203)
+	- write subroutine (204)
+	- write subroutine (205)
+	- write subroutine (206)
+	- write subroutine (207)
+	- write subroutine (208)
+	- write subroutine (209)
+	- write subroutine (210)
+	- write subroutine (211)
+	- write subroutine (212)
+	- write subroutine (213)
+	- write subroutine (214)
+	- write subroutine (215)
+	- write subroutine (216)
+	- write subroutine (217)
+	- write subroutine (218)
+	- write subroutine (219)
+	- write subroutine (220)
+	- write subroutine (221)
+	- write subroutine (222)
+	- write subroutine (223)
+	- write subroutine (224)
+	- write subroutine (225)
+	- write subroutine (226)
+	- write subroutine (227)
+	- write subroutine (228)
+	- write subroutine (229)
+	- write subroutine (230)
+	- write subroutine (231)
+	- write subroutine (232)
+	- write subroutine (233)
+	- write subroutine (234)
+	- write subroutine (235)
+	- write subroutine (236)
+	- write subroutine (237)
+	- write subroutine (238)
+	- write subroutine (239)
+	- write subroutine (240)
+	- write subroutine (241)
+	- write subroutine (242)
+	- write subroutine (243)
+	- write subroutine (244)
+	- write subroutine (245)
+	- write subroutine (246)
+	- write subroutine (247)
+	- write subroutine (248)
+	- write subroutine (249)
+	- write subroutine (250)
+	- write subroutine (251)
+	- write subroutine (253)
+	- write subroutine (254)
+	- write subroutine (256)
+	- write subroutine (257)
+	- write subroutine (258)
+	- write subroutine (259)
+	- write subroutine (261)
+	- write subroutine (262)
+	- write subroutine (263)
+	- write subroutine (264)
+	- write subroutine (265)
+	- write subroutine (266)
+	- write subroutine (267)
+	- write subroutine (268)
+	- write subroutine (269)
+	- write subroutine (270)
+	- write subroutine (272)
+	- write subroutine (274)
+	- write subroutine (275)
+	- write subroutine (276)
+	- write subroutine (277)
+	- write subroutine (278)
+	- write subroutine (279)
+	- write subroutine (280)
+	- write subroutine (282)
+	- write subroutine (284)
+	- write subroutine (285)
+	- write subroutine (286)
+	- write subroutine (287)
+	- write subroutine (288)
+	- write subroutine (289)
+	- write subroutine (290)
+	- write subroutine (291)
+	- write subroutine (292)
+	- write subroutine (293)
+	- write subroutine (295)
+	- write subroutine (297)
+	- write subroutine (299)
+	- write subroutine (301)
+	- write subroutine (302)
+	- write subroutine (303)
+	- write subroutine (304)
+	- write subroutine (305)
+	- write subroutine (306)
+	- write subroutine (307)
+	- write subroutine (308)
+	- write subroutine (309)
+	- write subroutine (310)
+	- write subroutine (311)
+	- write subroutine (312)
+	- write subroutine (313)
+	- write subroutine (314)
+	- write subroutine (315)
+	- write subroutine (317)
+	- write subroutine (318)
+	- write subroutine (319)
+	- write subroutine (320)
+	- write subroutine (321)
+	- write subroutine (322)
+	- write subroutine (323)
+	- write subroutine (324)
+	- write subroutine (325)
+	- write subroutine (326)
+	- write subroutine (327)
+	- write subroutine (328)
+	- write subroutine (329)
+	- write subroutine (330)
+	- write subroutine (332)
+	- write subroutine (333)
+	- write subroutine (334)
+	- write subroutine (335)
+	- write subroutine (336)
+	- write subroutine (337)
+	- write subroutine (338)
+	- write subroutine (339)
+	- write subroutine (340)
+	- write subroutine (341)
+	- write subroutine (342)
+	- write subroutine (343)
+	- write subroutine (344)
+	- write subroutine (345)
+	- write subroutine (346)
+	- write subroutine (347)
+	- write subroutine (348)
+	- write subroutine (349)
+	- write subroutine (350)
+	- write subroutine (351)
+	- write subroutine (352)
+	- write subroutine (353)
+	- write subroutine (354)
+	- write subroutine (355)
+	- write subroutine (356)
+	- write subroutine (357)
+	- write subroutine (358)
+	- write subroutine (359)
+	- write subroutine (360)
+	- write subroutine (361)
+	- write subroutine (362)
+	- write subroutine (363)
+	- write subroutine (364)
+	- write subroutine (365)
+	- write subroutine (366)
+	- write subroutine (367)
+	- write subroutine (368)
+	- write subroutine (369)
+	- write subroutine (370)
+	- write subroutine (371)
+	- write subroutine (372)
+	- write subroutine (373)
+	- write subroutine (374)
+	- write subroutine (375)
+	- write subroutine (376)
+	- write subroutine (377)
+	- write subroutine (378)
+	- write subroutine (379)
+	- write subroutine (380)
+	- write subroutine (381)
+	- write subroutine (382)
+	- write subroutine (383)
+	- write subroutine (384)
+	- write subroutine (385)
+	- write subroutine (386)
+	- write subroutine (387)
+	- write subroutine (388)
+	- write subroutine (389)
+	- write subroutine (390)
+	- write subroutine (391)
+ Make a generator for known variables ? (y/n) - Write generator
+
+	- write subroutine (392)
+	- write subroutine (393)
+	- write subroutine (395)
+	- write subroutine (397)
+	- write subroutine (399)
+	- write subroutine (401)
+	- write subroutine (403)
+	- write subroutine (405)
+	- write subroutine (407)
+	- write subroutine (409)
+	- write subroutine (411)
+	- write subroutine (413)
+	- write subroutine (415)
+	- write subroutine (417)
+	- write subroutine (419)
+	- write subroutine (421)
+	- write subroutine (423)
+	- write subroutine (425)
+	- write subroutine (427)
+	- write subroutine (429)
+	- write subroutine (431)
+	- write subroutine (433)
+	- write subroutine (435)
+	- write subroutine (437)
+	- write subroutine (439)
+	- write subroutine (441)
+	- write subroutine (443)
+	- write subroutine (445)
+	- write subroutine (447)
+	- write subroutine (449)
+	- write subroutine (451)
+	- write subroutine (453)
+
+Done
